@@ -1,0 +1,19 @@
+.music-player {
+  width: min(500px, 90%);
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 24px;
+  background: #F5DDE0;
+  color: rgb(44, 41, 41);
+  box-shadow: 0 20px 50px rgba(0,0,0,.25);
+}
+
+/*Respomsive*/
+@media (max-width: 600px) {
+
+  .music-player {
+    padding: 20px;
+    margin: 20px auto;
+  }
+
+}

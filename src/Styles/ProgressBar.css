@@ -1,0 +1,16 @@
+.progress-container {
+  width: 300px;
+  margin: 20px auto;
+}
+
+.progress-container input {
+  width: 100%;
+  cursor: pointer;
+}
+
+.time-display {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  margin-top: 5px;
+}
