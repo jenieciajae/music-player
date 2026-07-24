@@ -20,25 +20,6 @@ A responsive music player application built with React that allows users to brow
 - JavaScript
 - CSS
 
-##  Project Structure
-src
-├── Components
-│ ├── Controls.jsx
-│ ├── Playlist.jsx
-│ ├── ProgressBar.jsx
-│ ├── SongInfo.jsx
-│ └── VolumeControl.jsx
-│
-├── Data
-│ └── songs.js
-│
-└── Styles
-├── Control.css
-├── Playlist.css
-├── ProgressBar.css
-├── SongInfo.css
-└── Player.css
-
 
 ##  Design
 
