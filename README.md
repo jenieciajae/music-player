@@ -48,7 +48,9 @@ Through this project, I practiced:
 - Add dark mode
 - Deploy a live version
 
+## Live Demo
+https://music-player-b1c1.vercel.app/
 
-## 👩🏽‍💻 Author
+##  Author
 
 Jeniecia Williams
