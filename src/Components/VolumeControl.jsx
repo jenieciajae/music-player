@@ -1,4 +1,4 @@
-import "../styles/VolumeControl.css";
+import "../Styles/VolumeControl.css";
 
 function VolumeControl({ audioRef }) {
 

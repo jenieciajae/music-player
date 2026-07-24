@@ -1,4 +1,4 @@
-import "../styles/Playlist.css";
+import "../Styles/Playlist.css";
 import songs from "../data/songs";
 
 function Playlist({ onSongSelect, currentSong }) {

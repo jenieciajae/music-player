@@ -1,4 +1,4 @@
-import "../styles/Control.css";
+import "../Styles/Control.css";
 
 function Controls({ 
   isPlaying, 

@@ -1,4 +1,4 @@
-import "../styles/ProgressBar.css";
+import "../Styles/ProgressBar.css";
 
 function ProgressBar({ currentTime, duration, audioRef }) {
 

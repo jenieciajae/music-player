@@ -1,4 +1,4 @@
-import "../styles/SongInfo.css";
+import "../Styles/SongInfo.css";
 
 function SongInfo({ song }) {
   return (
