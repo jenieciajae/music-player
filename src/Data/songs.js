@@ -1,6 +1,6 @@
-import jamiCover from "../assets/covers/jamis-lullaby.jpg";
-import williamsCover from "../assets/covers/not-another-love-song.jpg";
-import robinsonCover from "../assets/covers/mrs-robinson.jpg";
+import jamiCover from "../assets/Covers/jamis-lullaby.jpg";
+import williamsCover from "../assets/Covers/not-another-love-song.jpg";
+import robinsonCover from "../assets/Covers/mrs-robinson.jpg";
 
 // Later we'll import the MP3s
 
