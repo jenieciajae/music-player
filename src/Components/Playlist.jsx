@@ -1,5 +1,5 @@
 import "../Styles/Playlist.css";
-import songs from "../data/songs";
+import songs from "../Data/songs";
 
 function Playlist({ onSongSelect, currentSong }) {
   return (

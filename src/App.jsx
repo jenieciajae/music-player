@@ -1,11 +1,11 @@
 import { useState, useRef, useEffect } from "react";
-import songs from "./data/songs";
+import songs from "./Data/songs";
 import SongInfo from "./Components/SongInfo";
 import Playlist from "./Components/Playlist";
 import Controls from "./Components/Controls";
 import ProgressBar from "./Components/ProgressBar";
 import VolumeControl from "./Components/VolumeControl";
-import "./styles/Player.css";
+import "./Styles/Player.css";
 
 function App() {
 
