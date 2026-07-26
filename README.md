@@ -1,52 +1,31 @@
-# 🎧 Music Player
+#  Music Player
 
-A responsive music player application built with React that allows users to browse songs, control playback, and interact with a custom playlist interface.
+A modern, responsive music player built with React. This project focuses on creating an interactive user experience with reusable components, custom styling, and a clean interface inspired by real-world music applications.
 
 ##  Features
 
-- Play and pause music
-- Previous and next song controls
-- Interactive playlist selection
-- Dynamic album artwork and song information
-- Active song highlighting
-- Clickable progress bar with seek functionality
-- Volume control
-- Responsive design for desktop and mobile screens
+- Browse and display songs
+- Show album artwork and song information
+-  Custom playback controls
+- Volume controls
+- Responsive design for different screen sizes
+- Component-based React structure
 
-##  Built With
+## Technologies Used
 
 - React
-- Vite
 - JavaScript
+- Vite
 - CSS
+- HTML5
 
-
-##  Design
+## Design
 
 The interface was designed with a focus on:
-- Clean user experience
-- Visual hierarchy
+- Clean music app aesthetics
+- User-friendly controls
 - Responsive layouts
-- Interactive UI elements
-
-##  What I Learned
-
-Through this project, I practiced:
-
-- Building reusable React components
-- Managing application state with `useState`
-- Using `useRef` for audio controls
-- Passing data and functions through props
-- Working with HTML audio elements
-- Creating responsive layouts with CSS
-
-## Some Future Improvements
-
-- Add shuffle and repeat functionality
-- Add more playlists and songs
-- Add animated album artwork
-- Add dark mode
-- Deploy a live version
+- Reusable React components
 
 ## Live Demo
 https://music-player-b1c1.vercel.app/
@@ -54,3 +33,11 @@ https://music-player-b1c1.vercel.app/
 ##  Author
 
 Jeniecia Williams
+
+## How To Run
+
+1. Clone this repository:
+
+```bash
+gh repo clone jenieciajae/music-player
+
