@@ -30,14 +30,34 @@ The interface was designed with a focus on:
 ## Live Demo
 https://music-player-b1c1.vercel.app/
 
-##  Author
-
-Jeniecia Williams
 
 ## How To Run
 
 1. Clone this repository:
 
-```bash
+``bash
 gh repo clone jenieciajae/music-player
 
+2. Navigate into the project folder:
+   
+cd music-player
+
+3.Install dependencies:
+
+npm install
+
+4. Start the development server:
+   
+npm run dev
+
+Future Improvements
+Playlist creation
+Search functionality
+User favorites
+Audio visualization
+Backend integration
+👩🏾‍💻 Author
+
+Created by Jeniecia Williams
+
+A front-end development project focused on React components, UI design, and interactive web experiences.
